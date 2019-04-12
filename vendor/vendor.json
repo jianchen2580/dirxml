@@ -1,0 +1,127 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "7SruRGsW2R7MboujYAK8YKEk/sU=",
+			"path": "github.com/dsnet/compress",
+			"revision": "da652975a8eea9fa0735aba8056747a751db0bd3",
+			"revisionTime": "2019-03-06T21:17:20Z"
+		},
+		{
+			"checksumSHA1": "Q8Y8aBNAuiO4/HVyj9PRyBz50YM=",
+			"path": "github.com/dsnet/compress/bzip2",
+			"revision": "da652975a8eea9fa0735aba8056747a751db0bd3",
+			"revisionTime": "2019-03-06T21:17:20Z"
+		},
+		{
+			"checksumSHA1": "Cl2jBQddOV5Ak4IyaF24wolJgfk=",
+			"path": "github.com/dsnet/compress/bzip2/internal/sais",
+			"revision": "da652975a8eea9fa0735aba8056747a751db0bd3",
+			"revisionTime": "2019-03-06T21:17:20Z"
+		},
+		{
+			"checksumSHA1": "u6VJ7jTVulLgPZaXKWCIHc4hbQs=",
+			"path": "github.com/dsnet/compress/internal",
+			"revision": "da652975a8eea9fa0735aba8056747a751db0bd3",
+			"revisionTime": "2019-03-06T21:17:20Z"
+		},
+		{
+			"checksumSHA1": "KDfyyvx86cyY/HUA2SSWRWjn7yI=",
+			"path": "github.com/dsnet/compress/internal/errors",
+			"revision": "da652975a8eea9fa0735aba8056747a751db0bd3",
+			"revisionTime": "2019-03-06T21:17:20Z"
+		},
+		{
+			"checksumSHA1": "Txyi+DYhWRT65KnJokyQWB2xj3A=",
+			"path": "github.com/dsnet/compress/internal/prefix",
+			"revision": "da652975a8eea9fa0735aba8056747a751db0bd3",
+			"revisionTime": "2019-03-06T21:17:20Z"
+		},
+		{
+			"checksumSHA1": "x2Km0Qy3WgJJnV19Zv25VwTJcBM=",
+			"path": "github.com/fsnotify/fsnotify",
+			"revision": "4da3e2cfbabc9f751898f250b49f2439785783a1",
+			"revisionTime": "2017-03-29T04:21:07Z"
+		},
+		{
+			"checksumSHA1": "L3HoHVqp2EaBSOqBxB7l0PTyu7g=",
+			"path": "github.com/golang/snappy",
+			"revision": "2a8bb927dd31d8daada140a5d09578521ce5c36a",
+			"revisionTime": "2019-02-18T23:22:22Z"
+		},
+		{
+			"checksumSHA1": "w4j6sRaY7/9HO73SSh/IojCZulA=",
+			"path": "github.com/mholt/archiver",
+			"revision": "2bd00e47f6e10b3199ae839ca3ccaea9c9f3aa32",
+			"revisionTime": "2019-03-07T19:40:51Z"
+		},
+		{
+			"checksumSHA1": "R4Qpqt8ujM8yRx/kZDXGI00C0To=",
+			"path": "github.com/nwaples/rardecode",
+			"revision": "197ef08ef68c4454ae5970a9c2692d6056ceb8d7",
+			"revisionTime": "2018-10-25T09:41:17Z"
+		},
+		{
+			"checksumSHA1": "Avb7BxRfJM8aNQMqsvEmxQhjxts=",
+			"path": "github.com/pierrec/lz4",
+			"revision": "315a67e90e415bcdaff33057da191569bf4d8479",
+			"revisionTime": "2019-03-27T17:20:49Z"
+		},
+		{
+			"checksumSHA1": "YzBjaYp2pbrwPhT6XHY0CBSh71A=",
+			"path": "github.com/pierrec/lz4/internal/xxh32",
+			"revision": "315a67e90e415bcdaff33057da191569bf4d8479",
+			"revisionTime": "2019-03-27T17:20:49Z"
+		},
+		{
+			"checksumSHA1": "DTy0iJ2w5C+FDsN9EnzfhNmvS+o=",
+			"path": "github.com/pkg/errors",
+			"revision": "059132a15dd08d6704c67711dae0cf35ab991756",
+			"revisionTime": "2018-10-23T23:59:46Z"
+		},
+		{
+			"checksumSHA1": "vsCV3YCxIuO3FjuggNxJTTTDkwU=",
+			"path": "github.com/ulikunitz/xz",
+			"revision": "6f934d456d51e742b4eeab20d925a827ef22320a",
+			"revisionTime": "2019-02-20T20:51:30Z"
+		},
+		{
+			"checksumSHA1": "vjnTkzNrMs5Xj6so/fq0mQ6dT1c=",
+			"path": "github.com/ulikunitz/xz/internal/hash",
+			"revision": "6f934d456d51e742b4eeab20d925a827ef22320a",
+			"revisionTime": "2019-02-20T20:51:30Z"
+		},
+		{
+			"checksumSHA1": "m0pm57ASBK/CTdmC0ppRHO17mBs=",
+			"path": "github.com/ulikunitz/xz/internal/xlog",
+			"revision": "6f934d456d51e742b4eeab20d925a827ef22320a",
+			"revisionTime": "2019-02-20T20:51:30Z"
+		},
+		{
+			"checksumSHA1": "0ePMTpIfQfr9W6N6Va/qaN7ZFYc=",
+			"path": "github.com/ulikunitz/xz/lzma",
+			"revision": "6f934d456d51e742b4eeab20d925a827ef22320a",
+			"revisionTime": "2019-02-20T20:51:30Z"
+		},
+		{
+			"checksumSHA1": "8CE50MRM75NFWRlF4TLRQ5PwXeE=",
+			"path": "github.com/xi2/xz",
+			"revision": "48954b6210f8d154cb5f8484d3a3e1f83489309e",
+			"revisionTime": "2017-12-30T12:00:15Z"
+		},
+		{
+			"checksumSHA1": "dgHycdFmYq++it3eZudxKGtufs8=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "176de7413414c01569163271c745672ff04a7267",
+			"revisionTime": "2017-10-25T22:50:40Z"
+		},
+		{
+			"checksumSHA1": "W/0fOqF4yGxLzKpQhrQ4bN6gbHE=",
+			"path": "gopkg.in/goracle.v2",
+			"revision": "e16a930d97f1a08c9dec8864353fa81f0b64abf6",
+			"revisionTime": "2019-04-03T11:04:16Z"
+		}
+	],
+	"rootPath": "dirxml"
+}
